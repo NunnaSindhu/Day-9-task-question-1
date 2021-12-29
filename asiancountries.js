@@ -1,3 +1,5 @@
+// olving problems using array functions on rest countries data.
+// Get all the countries from Asia continent /region using Filter function
 var xhr = new XMLHttpRequest();
 xhr.open("GET", "https://restcountries.com/v2/all");
 xhr.send();
